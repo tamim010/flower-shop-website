@@ -59,12 +59,55 @@ line-height: 30px;
 padding: 100px;
 }
 
-main{
+.flower-container{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.flower-1{
 
+
+
+    background-color:  rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    
+    
+}
+.boquet{
+
+    background-color:rgba(5, 151, 160, 0.15) ;
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+Style
+
+    
+}
+
+.yellow{
+
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
 }
 
 
-
+.free{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.heading{
+    text-align: center;
+}
 
 
 
