@@ -12,8 +12,11 @@ margin-left: 15px;
 
 }
 .banner-paragraph{
-    font-size: 10px;
-    margin-left: 15px;
+    font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
     
        
 }
@@ -34,13 +37,31 @@ margin-left: 15px;
     padding-right: 240px;
     display: flex;
     justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+
 }
 .banner .prime-picture{
     width: 500px ;
-    height: 500spx;
+    height: 400px;
     flex-shrink: 0;
 }
 
+.enter{
+    text-align: center;
+    font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+padding: 100px;
+}
+
+main{
+
+}
 
 
 
